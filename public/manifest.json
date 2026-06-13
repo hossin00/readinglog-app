@@ -1,0 +1,27 @@
+{
+  "name": "ReadingLog",
+  "short_name": "ReadingLog",
+  "description": "Book tracker with reading goals and yearly progress.",
+  "start_url": "/readinglog-app/",
+  "scope": "/readinglog-app/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#a855f7",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/readinglog-app/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/readinglog-app/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
